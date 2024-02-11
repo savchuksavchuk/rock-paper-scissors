@@ -1,0 +1,12 @@
+{
+  "name": "rockpaperscissors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client:dev": "cd client && npm run dev",
+    "api:dev": "cd api && npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
