@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "client:dependencies": "cd client && npm install",
+    "api:dependencies": "cd api && npm install",
     "client:dev": "cd client && npm run dev",
     "api:dev": "cd api && npm run dev"
   },
